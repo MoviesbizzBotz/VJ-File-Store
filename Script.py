@@ -58,7 +58,7 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 </a>
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>ᴘʀᴏɢʀᴀᴍ</a>
 🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/moviesbizz_yt>ᴍᴏᴠɪᴇꜱʙɪᴢᴢ ʏᴛ</a>
-👭 ᴍʏ ʙᴇꜱᴛꜰʀɪᴇɴᴅ: <a href="https://t.me/moviesbizz2_bot>ʀᴇᴇɴᴜ</a>
+👭 ᴍʏ ʙᴇꜱᴛꜰʀɪᴇɴᴅ: <a href=https://t.me/moviesbizz2_bot>ʀᴇᴇɴᴜ</a>
 👥 ᴍᴏᴠɪᴇ ɢʀᴏᴜᴘ: <a href=https://t.me/moviesbizzchat>ᴍᴏᴠɪᴇꜱʙɪᴢᴢᴄʜᴀᴛ</a>
 📢 ᴜᴘᴅᴀᴛᴇ ᴄʜᴀɴɴᴇʟ: <a href=https://t.me/moviesbizzmalayalam_hd>ᴊᴏɪɴ ᴄʜᴀɴɴᴇʟ</a></b>
 """
