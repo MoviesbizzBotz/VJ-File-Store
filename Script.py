@@ -49,13 +49,8 @@ If You Want To Remove Api Then Copy This And Send To Bot - `/api None`"""
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    ABOUT_TXT = """<b>ɪ ᴀᴍ ʟᴀᴛᴇꜱᴛ ᴀᴅᴠᴀɴᴄᴇᴅ ᴀɴᴅ ᴘᴏᴡᴇʀꜰᴜʟ ꜰɪʟᴇ ꜱᴛᴏʀᴇ ʙᴏᴛ ᴍᴀᴅᴇ ꜰᴏʀ @MoviEsBizzChaT 💫 ʏᴏᴜ ᴄᴀɴ ᴜꜱᴇ ᴍᴇ ᴛᴏ ɢᴇᴛ ᴍᴏᴠɪᴇꜱ ᴀɴᴅ ꜱᴇʀɪᴇꜱ ꜰʀᴏᴍ ᴏᴜʀ Gʀᴏᴜᴘ 🫠.ᴀɴᴅ ᴀꜱꜱɪꜱᴛᴀɴᴛ 🤵‍♀ ᴏꜰ ʀᴇᴇɴᴜ</a>
-
-
-🤖 ᴍʏ ɴᴀᴍᴇ: {}
-
-📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>>ᴘʏᴛʜᴏɴ3
-</a>
+    ABOUT_TXT = """<b>🤖 ᴍʏ ɴᴀᴍᴇ: {}
+📝 ʟᴀɴɢᴜᴀɢᴇ: <a href=https://www.python.org>ᴘʏᴛʜᴏɴ3</a>
 📚 ʟɪʙʀᴀʀʏ: <a href=https://docs.pyrogram.org>ᴘʀᴏɢʀᴀᴍ</a>
 🧑🏻‍💻 ᴅᴇᴠᴇʟᴏᴘᴇʀ: <a href=https://t.me/moviesbizz_yt>ᴍᴏᴠɪᴇꜱʙɪᴢᴢ ʏᴛ</a>
 👭 ᴍʏ ʙᴇꜱᴛꜰʀɪᴇɴᴅ: <a href=https://t.me/moviesbizz2_bot>ʀᴇᴇɴᴜ</a>
