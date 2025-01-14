@@ -11,15 +11,7 @@ class script(object):
 # Ask Doubt on telegram @KingVJ01
 
     
-    CAPTION = """<b>{file_name}
-
-🌟༺ ──•◈•─ ─•◈•──༻🌟
-➧ പുതിയ സിനിമകൾ വേണോ? എന്നാൽ പെട്ടെന്ന് ഗ്രൂപ്പിൽ ജോയിൻ ആയിക്കോ
-
-🔊 Group: @MoviEsBizzCHAT
- 🔊 cнannel: @MoviEsBizzMalaYalaM_HD
-
-🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят🎗️</b>""" 
+    CAPTION = """<b></b>""" 
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
