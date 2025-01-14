@@ -10,8 +10,8 @@ class script(object):
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
 # Ask Doubt on telegram @KingVJ01
 
-    
-  CAPTION = """<b>{file_name}
+   
+    CAPTION = """<b>{file_name}
 
 🌟༺ ──•◈•─ ─•◈•──༻🌟
 ➧ പുതിയ സിനിമകൾ വേണോ? എന്നാൽ പെട്ടെന്ന് ഗ്രൂപ്പിൽ ജോയിൻ ആയിക്കോ
