@@ -13,7 +13,13 @@ class script(object):
     
   CAPTION = """<b>{file_name}
 
-{file_caption}</b>"""  
+🌟༺ ──•◈•─ ─•◈•──༻🌟
+➧ പുതിയ സിനിമകൾ വേണോ? എന്നാൽ പെട്ടെന്ന് ഗ്രൂപ്പിൽ ജോയിൻ ആയിക്കോ
+
+🔊 Group: @MoviEsBizzCHAT
+ 🔊 cнannel: @MoviEsBizzMalaYalaM_HD
+
+🎗️ʝσιи 🎗️ ѕнαяє🎗️ ѕυρρσят🎗️</b>"""  
 
 # Don't Remove Credit Tg - @VJ_Botz
 # Subscribe YouTube Channel For Amazing Bot https://youtube.com/@Tech_VJ
