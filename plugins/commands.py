@@ -60,7 +60,7 @@ async def start(client, message):
     if len(message.command) != 2:
         buttons = [[
             InlineKeyboardButton('🔍 ɢʀᴏᴜᴘ', url='https://t.me/moviesbizzchat1'),
-            InlineKeyboardButton('🦋 ᴄʜᴀɴɴᴇʟ', url='https://t.me/moviesbizzmalayalam_NEA')
+            InlineKeyboardButton('🦋 ᴄʜᴀɴɴᴇʟ', url='https://t.me/moviesbizzmalayalam_NEW')
             ],[
             InlineKeyboardButton('© ᴏᴡɴᴇʀ', url='https://t.me/moviesbizz_yt'),
             InlineKeyboardButton('😊 ᴀʙᴏᴜᴛ', callback_data='about') 
